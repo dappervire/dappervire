@@ -29,6 +29,3 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dappervire&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" alt="Top Languages" />
   </a>
 </p>
-
----
-⭐️ 
