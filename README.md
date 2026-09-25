@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/dappervire">
-    <img src="https://github-readme-stats.vercel.app/api?username=dappervire&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/dappervire">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dappervire&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dappervire&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB)](https://github.com/dappervire)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dappervire&layout=compact&theme=transparent&hide_border=true&title_color=3776AB)](https://github.com/dappervire)
