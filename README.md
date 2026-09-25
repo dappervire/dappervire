@@ -16,11 +16,3 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dappervire&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB)](https://github.com/dappervire)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dappervire&layout=compact&theme=transparent&hide_border=true&title_color=3776AB)](https://github.com/dappervire)
