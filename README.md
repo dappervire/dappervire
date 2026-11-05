@@ -19,15 +19,15 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👤 Tentang Saya
 
 Mahasiswa **Informatika Telkom University** yang membangun web dari frontend sampai backend, lalu merilisnya hingga online.
 
 Sebelum kuliah, saya belum pernah menulis satu baris kode pun. Proyek pertama saya berawal dari iseng mengisi waktu luang: landing page untuk brand kopi fiktif. Dari situ saya makin penasaran bagaimana sebuah website bekerja dari depan sampai belakang, dan lahirlah proyek kedua, sistem booking barbershop. Sampai sekarang saya terus mengasah kemampuan di dunia software development.
 
-- 🌱 **Titik awal:** nol pengalaman ngoding
-- 📚 **Cara belajar:** kuliah, kompetisi, dan proyek sendiri
-- 🚀 **Sekarang:** landing page & web app yang sudah live
+-  **Titik awal:** nol pengalaman ngoding
+-  **Cara belajar:** kuliah, kompetisi, dan proyek sendiri
+-  **Sekarang:** landing page & web app yang sudah live
 - 📍 Bandung, Indonesia
 
 ---
