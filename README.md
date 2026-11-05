@@ -39,8 +39,6 @@ Sebelum kuliah, saya belum pernah menulis satu baris kode pun. Proyek pertama sa
 | 01 | **KoSu** — Brand Kopi Fiktif | Landing page untuk brand kopi fiktif: produk dan cerita brand dalam satu halaman yang ringan dan responsif. | HTML, Tailwind CSS, JavaScript, Vercel | [Live](https://kosu-landing-page.vercel.app/) · [Repo](https://github.com/dappervire/kosu-landing-page) |
 | 02 | **Barbershop Booking** | Sistem booking barbershop dengan REST API, login admin berbasis JWT, dan dashboard untuk mengelola jadwal. | Node.js, Express, PostgreSQL, JWT | [Live](https://barbershop-booking-website-production.up.railway.app) · [Repo](https://github.com/dappervire/barbershop-booking-website) |
 | 03 | **iQRo** | Ubah link jadi QR code dengan logo di tengahnya, lalu unduh sebagai template yang siap dicetak. | Next.js, TypeScript, Tailwind CSS | [Live](https://iqro-alpha.vercel.app/) |
-| 04 | **FirStep**  | Simulator karier berbasis AI untuk mahasiswa Indonesia, mencoba peran kerja sebelum benar-benar melamar. *(Lomba inovasi AI)* | Gemini 2.0, Google AI Studio, Cloud Run | [Live](https://firstep-two.vercel.app/) |
-| 05 | **suaRAkyat**  | Warga melapor masalah publik, memantau statusnya, lalu melihat papan skor akuntabilitas tiap instansi. *(Lomba Web in Action, kerja tim)* | Supabase | [Repo](https://github.com/GedeAnanda/suarakyatt) |
 
 ---
 
