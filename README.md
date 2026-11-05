@@ -81,7 +81,7 @@ Sebelum kuliah, saya belum pernah menulis satu baris kode pun. Proyek pertama sa
 
 ---
 
-## 📬 Ayo Kerja Bareng
+## 📬 Kontak
 
 Sedang mencari anak magang atau junior web developer yang cepat belajar? Saya siap ngobrol, CV dan portofolio lengkap bisa saya kirim kapan saja.
 
